@@ -1,0 +1,2 @@
+%{"worldly": {:git, "https://github.com/vinsol/worldly.git", "4462a2faf77f9ef0946504c9663df0f2ee5b97bf", [branch: "test/country"]},
+  "yamerl": {:git, "https://github.com/yakaz/yamerl.git", "ae810a808817d9482b4628ae3e20d746e3729fe0", []}}

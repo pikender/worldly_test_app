@@ -27,6 +27,6 @@ defmodule WorldlyTestApp.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:worldly, github: "vinsol/worldly", branch: "test/country"}]
   end
 end
