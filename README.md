@@ -14,6 +14,10 @@
         [applications: [:logger] ++ [:yamerl, :worldly]]
       end
 
+- Add data_path config in `config/config.exs`
+
+      config :worldly, :data_path, Path.join(Mix.Project.deps_path, "/worldly/data")
+
 - Start IEx `iex -S mix`
 - Play with Worldy
 
