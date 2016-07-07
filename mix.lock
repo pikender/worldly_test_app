@@ -1,2 +1,2 @@
-%{"worldly": {:hex, :worldly, "0.1.0", "bd6058e8252ed55d0bd24a49ad02a2a48be52152088fcf5b956d5c2f83ee8ec9", [:mix], []},
+%{"worldly": {:hex, :worldly, "0.1.1", "4d16957363f3195ecc722aad941b72054645e995687283298277fea3bdc0e7af", [:mix], []},
   "yamerl": {:git, "https://github.com/yakaz/yamerl.git", "ae810a808817d9482b4628ae3e20d746e3729fe0", []}}

@@ -29,7 +29,7 @@ defmodule WorldlyTestApp.Mixfile do
   defp deps do
     [
       {:yamerl, github: "yakaz/yamerl"},
-      {:worldly, "0.1.0"}
+      {:worldly, "0.1.1"}
     ]
   end
 end
