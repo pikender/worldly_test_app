@@ -1,9 +1,12 @@
 # WorldlyTestApp
 
-- Add `worldly` as dependency in `mix.exs`
+- Add `yamerl` and `worldly` as dependency in `mix.exs`
 
       defp deps do
-        [{:worldly, github: "vinsol/worldly", branch: "test/country"}]
+        [
+          {:yamerl, github: "yakaz/yamerl"},
+          {:worldly, "0.1.0"}
+        ]
       end
 
 - Get the worldly dependency `mix deps.get`
